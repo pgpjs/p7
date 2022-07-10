@@ -2,4 +2,4 @@
 
 
 
-![[Alt text](https://p7.pgpjs.org/srcn/Screenshot1.png)](url "Title")
+![(https://p7.pgpjs.org/srcn/Screenshot1.png)]
