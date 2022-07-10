@@ -1,6 +1,6 @@
 #  p7.pgpjs.org para instalar el software en su servidor o pc
 
-![alt text](http://pgpjs.org/srcn/Screenshot1.png)
+![alt text](http://p7.pgpjs.org/srcn/Screenshot1.png)
 
 
 
